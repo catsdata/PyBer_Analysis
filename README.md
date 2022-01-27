@@ -29,15 +29,24 @@ Explain the purpose of the new analysis.
 
 
 ## Results
-There is a description of the differences in ride-sharing data among the different city types. 
+The following dataframe shows the calculated counts, sums and averages based on city type.
 
-- total rides
-- total drivers
-- total fares
-- average fare per ride
-- average fare per driver
-- total fare by city type
- 
+![dataframe](https://github.com/catsdata/PyBer_Analysis/blob/main/analysis/pyber_summary_dataframe.png)
+
+- ### Total Rides:
+    Text here
+- ### Total Drivers
+    Text here
+- ### Total Fare
+    Text here
+- ### Average Fare per Ride
+    Text here
+- ### Average Fare per Driver
+    Text here
+
+- ### Weekly Totals by City Type
+    Text here
+  
 ![pyber_fare_summary.png](https://github.com/catsdata/PyBer_Analysis/blob/main/analysis/pyber_fare_summary.png)
 
 
