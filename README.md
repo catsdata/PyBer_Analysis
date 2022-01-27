@@ -27,9 +27,7 @@ Explain the purpose of the new analysis.
 - Software: 
     - Jupyter Notebook 6.4.6
     - Python 3.7.11 with dependencies: 
-        - SciPy 1.7.3
         - Pandas 1.3.5
-        - Numpy 1.20.3 
         - MatPlotLib 3.5.0
     - Anaconda Command line Client 1.9.0
     - Conda 4.11.0
