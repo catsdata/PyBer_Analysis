@@ -1,11 +1,16 @@
 # PyBer Analysis
 
+<details><summary>Table of Contents</summary>
+<p>
+
 1. [Overview](https://github.com/catsdata/PyBer_Analysis#overview)
 2. [Resources](https://github.com/catsdata/PyBer_Analysis#resources)
 3. [Results](https://github.com/catsdata/PyBer_Analysis#results)
     - [bullets](add link)
 4. [Summary](https://github.com/catsdata/PyBer_Analysis#summary)
 
+</p>
+</details>
 
 ## Overview
 Explain the purpose of the new analysis.
@@ -25,9 +30,25 @@ Explain the purpose of the new analysis.
 
 ## Results
 There is a description of the differences in ride-sharing data among the different city types. 
-Ride-sharing data includes the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.
+
+- total rides
+- total drivers
+- total fares
+- average fare per ride
+- average fare per driver
+- total fare by city type
+ 
+![pyber_fare_summary.png](https://github.com/catsdata/PyBer_Analysis/blob/main/analysis/pyber_fare_summary.png)
+
+
 
 ## Summary
 A statement summarizing three business recommendations to the CEO for addressing any disparities among the city types
+
+1.
+
+2.
+
+3.
 
 ✓The purpose is well defined. ✓There is a description of the differences in the ride-sharing data for ALL SIX metrics by city type. ✓There is a statement summarizing THREE business recommendations addressing disparities among the city types.
