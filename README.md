@@ -18,9 +18,11 @@
 </details>
 
 ## Overview
+
 Explain the purpose of the new analysis.
 
 ## Resources
+
 - Data Sources: [city_data.csv](https://github.com/catsdata/PyBer_Analysis/blob/main/Resources/city_data.csv) & [ride_data.csv](https://github.com/catsdata/PyBer_Analysis/blob/main/Resources/ride_data.csv)
 - Software: 
     - Jupyter Notebook 6.4.6
@@ -34,6 +36,7 @@ Explain the purpose of the new analysis.
 
 
 ## Results
+
 The following dataframe shows the calculated counts, sums and averages based on city type.
 
 ![dataframe](https://github.com/catsdata/PyBer_Analysis/blob/main/analysis/pyber_summary_dataframe.png)
@@ -57,7 +60,8 @@ The following dataframe shows the calculated counts, sums and averages based on 
 
 
 ## Summary
-A statement summarizing three business recommendations to the CEO for addressing any disparities among the city types
+
+The following are three business recommendations for the CEO addressing disparities among the city types:
 
 1.
 
@@ -65,4 +69,3 @@ A statement summarizing three business recommendations to the CEO for addressing
 
 3.
 
-✓The purpose is well defined. ✓There is a description of the differences in the ride-sharing data for ALL SIX metrics by city type. ✓There is a statement summarizing THREE business recommendations addressing disparities among the city types.
