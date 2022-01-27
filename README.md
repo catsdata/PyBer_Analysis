@@ -6,7 +6,12 @@
 1. [Overview](https://github.com/catsdata/PyBer_Analysis#overview)
 2. [Resources](https://github.com/catsdata/PyBer_Analysis#resources)
 3. [Results](https://github.com/catsdata/PyBer_Analysis#results)
-    - [bullets](add link)
+    - [Total Rides](https://github.com/catsdata/PyBer_Analysis#total-rides)
+    - [Total Drivers](https://github.com/catsdata/PyBer_Analysis#total-drivers)
+    - [Total Fare](https://github.com/catsdata/PyBer_Analysis#total-fare)
+    - [Average Fare per Ride](https://github.com/catsdata/PyBer_Analysis#average-fare-per-ride)
+    - [Average Fare per Driver](https://github.com/catsdata/PyBer_Analysis#average-fare-per-driver)
+    - [Weekly Fares Line Chart](https://github.com/catsdata/PyBer_Analysis#weekly-totals-by-city-type) 
 4. [Summary](https://github.com/catsdata/PyBer_Analysis#summary)
 
 </p>
