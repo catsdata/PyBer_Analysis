@@ -19,7 +19,7 @@
 
 ## Overview
 
-Explain the purpose of the new analysis.
+PyBer executives have requested an evaluation of ride sharing data for three city types:  Urban, Suburban, and Rural.   We have been provided a sampling of driver and ride data to combine and analyze.   The request includes a summary dataframe for counts of rides and drivers, total fares, and averages of fares per driver and ride; as well as a multi-line graph on the total weekly fares over each city type from January through the end of April.  The decision-makers at PyBer would like recommendations based on the analysis.
 
 ## Resources
 
